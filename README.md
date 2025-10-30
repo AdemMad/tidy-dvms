@@ -270,6 +270,8 @@ Follows **Semantic Versioning**:
 
 **Your Name**  
 © 2025 — Adem Madoun
+---
+
 Issues & feature requests: open a ticket on the repository Issues page.
 
 ---
