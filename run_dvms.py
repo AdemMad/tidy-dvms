@@ -7,9 +7,9 @@ client = DVMS(
     password="",
 )
 
-# 1) Fixtures (choose representation)
+# 1) Fixtures
 fixtures_df   = client.fixtures(format="dataframe")  # Pandas DataFrame
-fixtures_json = client.fixtures(format="json")       # list[dict]
+fixtures_json = client.fixtures(format="json")
 
 opta_match_id = 2370657
 
