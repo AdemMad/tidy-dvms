@@ -7,30 +7,6 @@ _Not affiliated with, endorsed by, or sponsored by the Premier League, Second Sp
 
 ---
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Quickstart](#quickstart)
-- [API](#api)
-  - [DVMS](#dvms)
-  - [fixtures](#fixtures)
-  - [splits](#splits)
-  - [summary](#summary)
-- [Examples](#examples)
-  - [Loop over all fixtures](#loop-over-all-fixtures)
-  - [Work from JSON](#work-from-json)
-  - [Persist to SQL Server (optional)](#persist-to-sql-server-optional)
-- [Configuration & Secrets](#configuration--secrets)
-- [Troubleshooting](#troubleshooting)
-- [Development](#development)
-- [Versioning](#versioning)
-- [License](#license)
-- [Author](#author)
-- [Disclaimer](#disclaimer)
-
----
-
 ## Features
 
 - Minimal, explicit API:
