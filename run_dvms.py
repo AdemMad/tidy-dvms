@@ -1,9 +1,8 @@
 from tidy_dvms import DVMS
 
-
 client = DVMS(
-    season=2023,                                # e.g., 2020–2025
-    competition_name="EFL Championship",  # "English Premier League", "EFL Championship", "EFL Cup", "FA Cup"
+    season=2023,                              # e.g., 2020–2025
+    competition_name="EFL Championship",      # "English Premier League", "EFL Championship", "EFL Cup", "FA Cup"
     username="",
     password="",
 )
@@ -11,9 +10,6 @@ client = DVMS(
 # 1) Fixtures (choose representation)
 fixtures_df   = client.fixtures(format="dataframe")  # Pandas DataFrame
 fixtures_json = client.fixtures(format="json")       # list[dict]
-
-# 2) Choose a match and compute outputs
-# physical splits
 
 opta_match_id = 2370657
 
