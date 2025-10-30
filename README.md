@@ -27,7 +27,7 @@ _Not affiliated with, endorsed by, or sponsored by the Premier League, Second Sp
 ## Installation
 
 ```bash
-pip install dvms_client
+pip install tidy-dvms
 ```
 
 > Testing from **TestPyPI**? Allow PyPI as a fallback for dependencies:
