@@ -268,10 +268,8 @@ Follows **Semantic Versioning**:
 
 ## Author
 
-**Your Name**  
-© 2025 — Adem Madoun
----
-
+**Adem Madoun**  
+© 2025
 Issues & feature requests: open a ticket on the repository Issues page.
 
 ---
