@@ -48,8 +48,6 @@ def get_index_range(transform_dataframe, json_list):
 def capture_player_frame(list_count, dfs, functions):
 
     # Dataframe Concatenation
-    print('Concatenate Dataframes...')
-
     if list_count == 323:
         df = pd.concat(dfs)
 
